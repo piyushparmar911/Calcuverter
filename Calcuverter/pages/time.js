@@ -135,7 +135,7 @@ function equlTo() {
             result = convertsecond / DaytoSecond;
             break;
 
-        case "year":
+        case "Year":
             result = convertsecond / YeartoSecond;
             break;
     }
